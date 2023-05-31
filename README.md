@@ -1,14 +1,14 @@
 # Ex.No:9 Develop a simple calculator using android studio.
 
-## AIM:
+### AIM:
 
 To develop a program to develop a simple calculator in Android Studio.
 
-## EQUIPMENTS REQUIRED:
+### EQUIPMENTS REQUIRED:
 
 Android Studio(Latest Version)
 
-## ALGORITHM:
+### ALGORITHM:
 
 Step 1: Open Android Stdio and then click on File -> New -> New project.
 
@@ -24,16 +24,14 @@ Step 6: Display the calculator operation in MainActivity file.
 
 Step 7: Save and run the application.
 
-## PROGRAM:
-```
-/*
-Program to print the text “calculator operation”.
-Developed by: DINESH KUMAR
-Registeration Number : 212221220011
-*/
-```
+### PROGRAM:
 
-activity_main.xml:
+Program to print the text “calculator operation”.
+
+Developed by:Kathirvelan.K
+Registeration Number : 212221220026
+
+Activity_main.xml
 
 ```
 <?xml version="1.0" encoding="utf-8"?>
@@ -159,7 +157,7 @@ activity_main.xml:
 
 ```
 
-MainActivity.java:
+MainActivity.java
 
 ```
 package com.example.simplecalculator;
@@ -290,20 +288,17 @@ public class MainActivity extends AppCompatActivity {
 }
 ```
 
-## OUTPUT
-
-![image](https://github.com/kannan0071/MAD-Ex.No-9/assets/119641638/d89e8d24-4bcb-4845-a7b9-5610c8a80380)
-
-![image](https://github.com/kannan0071/MAD-Ex.No-9/assets/119641638/47f8bff5-a118-41f9-a2c9-89383ef15bbf)
-
-![WhatsApp Image 2023-05-25 at 14 03 22](https://github.com/kannan0071/MAD-Ex.No-9/assets/119641638/cf7c2457-bc16-4c4b-99f8-123c2c99a6cc)
-
-![WhatsApp Image 2023-05-25 at 14 03 24](https://github.com/kannan0071/MAD-Ex.No-9/assets/119641638/510f2e09-e2d5-4831-b89f-3b1c4bfd9f17)
-
-![WhatsApp Image 2023-05-25 at 14 03 21](https://github.com/kannan0071/MAD-Ex.No-9/assets/119641638/e65280db-647e-45c7-bb3f-ba5f049a3a30)
-
-![WhatsApp Image 2023-05-25 at 14 03 21](https://github.com/kannan0071/MAD-Ex.No-9/assets/119641638/06d9f9c5-51a5-45a7-819d-fd62cf307f70)
+### OUTPUT
 
 
-## RESULT
+![]()
+
+![]()
+
+![]()
+
+![]()
+
+
+### RESULT:
 Thus a Simple Android Application develop a program to create simple calculator in Android Studio is developed and executed successfully.
