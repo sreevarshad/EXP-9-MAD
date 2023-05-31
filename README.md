@@ -301,5 +301,10 @@ public class MainActivity extends AppCompatActivity {
 ![](https://github.com/KATHIR1611/EXP-9-MAD/blob/main/ab%204.jpg)
 
 
+
+
+
+
+
 ### RESULT:
 Thus a Simple Android Application develop a program to create simple calculator in Android Studio is developed and executed successfully.
