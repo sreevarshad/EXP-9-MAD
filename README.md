@@ -1,4 +1,4 @@
-# Ex.No:9 Develop a simple calculator using android studio.
+# Ex.No:9 Develop a simple calculator using android studio
 
 ### AIM:
 
@@ -6,7 +6,7 @@ To develop a program to develop a simple calculator in Android Studio.
 
 ### EQUIPMENTS REQUIRED:
 
-Android Studio(Latest Version)
+Android Studio(Latest Version).
 
 ### ALGORITHM:
 
@@ -32,7 +32,7 @@ Developed by:Kathirvelan.K
 
 Registeration Number : 212221220026
 
-Activity_main.xml
+activity_main.xml
 
 ```
 <?xml version="1.0" encoding="utf-8"?>
