@@ -1,5 +1,7 @@
 # Ex.No:9 Develop a simple calculator using android studio
 
+Date : 11.05.23
+
 ### AIM:
 
 To develop a program to develop a simple calculator in Android Studio.
